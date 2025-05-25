@@ -5,7 +5,6 @@ Exercises of course\
 Exercises of HTML/CSS\
 Exercises of Javascript - Algorithms\
 Esse repositório contém alguns exemplos do curso Programador Fullstack da One Bit Code, além de alguns exercícios propostos durante o curso.\
-\
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,5 +18,5 @@ Esse repositório contém alguns exemplos do curso Programador Fullstack da One 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-\
-Walescko.\
+
+Walescko.
