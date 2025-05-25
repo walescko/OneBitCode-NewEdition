@@ -1,5 +1,5 @@
 # OneBitCode-NewEdition
-Files of the course One Bit Code Full Stack HTMl/CSS/Javscriptz\\
+Files of the course One Bit Code Full Stack HTMl/CSS/Javscript\
 
 Exercises of course\
 Exercises of HTML/CSS\
