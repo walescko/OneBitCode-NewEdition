@@ -1,4 +1,4 @@
-# OneBitCode-NewEdition\
+# OneBitCode-NewEdition
 Files of the course One Bit Code Full Stack HTMl/CSS/Javscriptz\\
 
 Exercises of course\
