@@ -17,7 +17,7 @@ Esse repositório contém alguns exemplos do curso Programador Fullstack da One 
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![OpenMandriva](https://img.shields.io/badge/OpenMandriva-000A53?style=for-the-badge&logo=OpenMandriva&logoColor=blue)
+//![OpenMandriva](https://img.shields.io/badge/OpenMandriva-000A53?style=for-the-badge&logo=OpenMandriva&logoColor=blue)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
