@@ -20,6 +20,6 @@ Esse repositório contém alguns exemplos do curso Programador Fullstack da One 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-Walescko.\
+Walescko.
 
 Julho de 2025
